@@ -1,1 +1,1 @@
-
+Map reduce performs more I/O operation 
